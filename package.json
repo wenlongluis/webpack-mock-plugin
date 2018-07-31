@@ -1,0 +1,33 @@
+{
+  "name": "webpack-mock-plugin",
+  "version": "0.0.1",
+  "description": "mock api for webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenlongluis/webpack-mock-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "mock",
+    "webpack-mock-plugin"
+  ],
+  "author": {
+    "name": "Luis",
+    "email": "super-lwl@163.com",
+    "url": "https://github.com/wenlongluis"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wenlongluis/webpack-mock-plugin/issues"
+  },
+  "homepage": "https://github.com/wenlongluis/webpack-mock-plugin#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
