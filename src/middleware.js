@@ -1,8 +1,3 @@
-/**
- * @file:
- * @author: Luis
- * @date: 2018/7/31
- */
 
 const path = require('path')
 const fs = require('fs')
