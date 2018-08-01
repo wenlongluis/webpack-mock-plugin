@@ -31,6 +31,7 @@ webpack-mock-plugin dev support mock, configured in webpack.conf.js.
   }
 ```
 mock api example:
+
 Dirctory /mock/your-api/test.js
 ```js
   /**
