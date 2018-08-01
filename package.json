@@ -1,6 +1,6 @@
 {
   "name": "webpack-mock-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mock api for webpack plugin",
   "main": "index.js",
   "scripts": {
