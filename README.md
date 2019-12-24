@@ -1,14 +1,11 @@
 # webpack-mock-plugin
-webpack mock api plugin
+`webpack-mock-plugin` is a webpack plugin using [Express](https://expressjs.com/) to create mock APIs. It will be helpful when you try to test your application without the actual API server.
 
-# INTRODUCOTION
-webpack-mock-plugin is a webpack plugin using express that creates mocks for APIs. It will be helpful when you try to test your application without the actual API server.
-
-# USE
 ## Installation
 ```bash
   npm install -D webpack-mock-plugin
 ```
+
 ## Usage
 webpack-mock-plugin dev support mock, configured in webpack.conf.js.
 ```js
@@ -32,7 +29,7 @@ webpack-mock-plugin dev support mock, configured in webpack.conf.js.
 ```
 mock api example:
 
-Dirctory /mock/your-api/test.js => http://localhost:3000/your-api/test
+Dirctory `/mock/your-api/test.js` => `http://localhost:3000/your-api/test`
 ```js
   /**
     * api example
