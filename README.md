@@ -29,7 +29,7 @@ webpack-mock-plugin dev support mock, configured in webpack.conf.js.
 ```
 mock api example:
 
-Dirctory `/mock/your-api/test.js` => `http://localhost:3000/your-api/test`
+Directory `/mock/your-api/test.js` => `http://localhost:3000/your-api/test`
 ```js
   /**
     * api example
